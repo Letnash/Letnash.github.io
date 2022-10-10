@@ -1,1 +1,1 @@
-# cin << "Hello word" << endl;
+# Hello world
