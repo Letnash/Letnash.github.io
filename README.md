@@ -8,5 +8,7 @@ Estos son mis primeros pasos creando una pagina. BOOOOM!!!
 [Mi video](https://user-images.githubusercontent.com/114767318/194931147-6413cd90-2836-4a4e-a971-6567c470fac1.mp4)
 
 Mi horario:
-![16f4738f-9aa3-41a3-a4da-f03616cc54ea](https://user-images.githubusercontent.com/114767318/194949715-5b58cbad-4b46-4829-a60e-a314127597fb.jpg)
-[Descargar(PDF)](https://github.com/Letnash/My-page-Lincoll/files/9749158/HORARIO-actualizado-_Recuperado-automaticamente_.pdf)
+![HORARIO actualizado (Recuperado automáticamente)_page-0001](https://user-images.githubusercontent.com/114767318/198082512-bf19659c-d3f0-4855-ac39-8bfb2e1547e3.jpg)
+
+
+[Descargar(PDF)](https://github.com/Letnash/Welcome/files/9871600/HORARIO.actualizado.Recuperado.automaticamente.pdf)
